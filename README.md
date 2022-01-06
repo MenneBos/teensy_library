@@ -1,6 +1,8 @@
 Teensy symbol library for KiCAD
 =======================================
 
+Adjusted Teensy4.0 with audios signal (3 x Jackplug and Mic input)
+
 This repo includes KiCAD symbols for the following Teensy versions:
 
   - Teensy 1.0
